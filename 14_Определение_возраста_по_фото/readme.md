@@ -1,17 +1,15 @@
 
-# Исследование надёжности заёмщиков — анализ банковских данных
+# Определение возраста по фото
 
-<b>Задачи проекта:</b> на основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок
+<b>Задачи проекта:</b> построить модель, которая по фотографии определит приблизительный возраст человека. Есть набор фотографий людей с указанием возраста.
 
-<b> Описание проекта.</b>
-Входные данные от кредитного отдела банка  — статистика о платёжеспособности клиентов. 
-Очищены данные от выбросов, пропусков и дубликатов, а также преобразованы разные форматы данных. Заменены типы данных на соответствующие хранящимся данным. Удалены дубликаты. Выделены леммы в значениях столбца и категоризированны данные.
-Определена доля кредитоспособных клиентов.
-Проанализировано влияние семейного положения и количества детей клиента на факт возврата кредита в срок. 
-Построена модель кредитного скоринга — специальной системы, которая оценивает способность потенциального заёмщика вернуть кредит банку.
+<b> Описание проекта.</b> Сетевой супермаркет внедряет систему компьютерного зрения для обработки фотографий покупателей. Фотофиксация в прикассовой зоне поможет определять возраст клиентов, чтобы:
+•Анализировать покупки и предлагать товары, которые могут заинтересовать покупателей этой возрастной группы;
+•Контролировать добросовестность кассиров при продаже алкоголя.
+Построена модель, которая по фотографии определит приблизительный возраст человека. 
+Проанализирован набор фотографий людей с указанием возраста при помощи компьютерного зрения с привлечением готовых нейронных сетей и библиотеки Keras.
 
 <b> Навыки и инструменты, применяемые в проекте:</b>
-Matplotlib, Pandas, PyMystem3, Python, SciKitLearn, SciPy, Seaborn, numpy, лемматизация, предобработка данных.
+Matplotlib, Pandas, Seaborn, keras, компьютерное зрение, машинное обучение.
 
-
-<b>Ключевые слова:</b> обработка данных, дубликаты, пропуски, категоризация, лемматизация, data analyst, аналитик данных, аналитик, финансовый аналитик, analyst
+<b>Ключевые слова:</b> Computer Vision,  Video Analysis, Image, video enhancement (HDR, trailing smear, Image distortion and so on). Stereo Vision and Binocular Calibration. Face/body/vehicle attribute and feature recognition (structured and semi-structured), object detection, Re-ID, Face verification and identification, landmarks, identification tracking algorithm, 3D reconstruction, Structure-from-motion, Image filtration. Augmented reality, Virtual reality, Image retrieval, data science, machine learning, ML, Python, SQL, Git, Pandas, Numpy, Matplotlib, seaborn, Sklearn, Keras, Tableau, Spark, Hadoop, R, sci-py, Research, Kaggle, Algorithms, PyTorch, TensorFlow, CatBoost, RNN, SVN, NLP, DNN, Deep Learning, xgboost, Support vector machines, reccurent neural networks, нейронные сети, градиентный бустинг, нелинейная оптимизация, кластеризация, random forest, descision trees,  regression,  Reinforcement Learning, neural networks, artificial intelligence.
