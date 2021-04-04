@@ -11,6 +11,6 @@
 Обучение с учителем. Работа с несбалансированными данными.
 
 <b> Навыки и инструменты, применяемые в проекте:</b>
-Matplotlib,Pandas,Seaborn,math,numpy,sklearn,машинное обучение.
+Matplotlib, Pandas, Seaborn, math, numpy, sklearn, машинное обучение.
 
 <b>Ключевые слова:</b> data science, machine learning, ML, Python, SQL, Git, Pandas, Numpy, Matplotlib, seaborn, Sklearn, CatBoost, xgboost, градиентный бустинг, нелинейная оптимизация, кластеризация, random forest, descision trees,  regression,  Reinforcement Learning.
